@@ -1,6 +1,5 @@
 My hobbies:
 1. Play cards;
-<<<<<<< HEAD
 
 2. Biking;
 3. Camping;
