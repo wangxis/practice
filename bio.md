@@ -1,5 +1,6 @@
 My hobbies:
 1. Play cards;
+<<<<<<< HEAD
 
 2. Biking;
 3. Camping;
@@ -7,6 +8,9 @@ My hobbies:
 
 
 
+=======
+2. This will generate conflictsa a 
+>>>>>>> other-info-branch
 Programming background;
 1. C++
 2. java
