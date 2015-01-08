@@ -1,8 +1,12 @@
 My hobbies:
 1. Play cards;
+
 2. Biking;
 3. Camping;
 4. Reading; Play game
+
+
+
 Programming background;
 1. C++
 2. java
